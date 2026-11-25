@@ -26,3 +26,6 @@ atm.exe
 ```
 
 > This is a debugging exercise. `main.c` includes a non-existent header `<grphik.h>`, and `char pin[4]` is too small for a 4-digit PIN plus `\0`. Fixing these is part of the exercise.
+
+## License
+Released under the [MIT License](LICENSE).
