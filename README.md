@@ -2,6 +2,8 @@
 
 A console ATM simulator written in C, made as a debugging exercise. The interface is in Bahasa Indonesia.
 
+![ATM simulator withdrawing cash](screenshot.png)
+
 ## Features
 - PIN login, with the account blocked after 3 wrong attempts
 - Main menu:
